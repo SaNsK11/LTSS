@@ -1,0 +1,39 @@
+name: Generate Blog Posts
+
+on:
+  schedule:
+    - cron: "30 2 * * *"   # 8:00 AM IST
+    - cron: "30 14 * * *"  # 8:00 PM IST
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate blog post
+        run: python scripts/generate_post.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push new post
+        run: |
+          git config user.name "LTSS Blog Bot"
+          git config user.email "bot@lasertechsystems.co.in"
+          git add blog/ topics.json
+          git diff --staged --quiet || git commit -m "Blog: Add new post [skip ci]"
+          git push
