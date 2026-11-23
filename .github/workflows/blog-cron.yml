@@ -37,3 +37,4 @@ jobs:
           git add blog/ topics.json
           git diff --staged --quiet || git commit -m "Blog: Add new post"
           git push
+          curl -s -X POST https://api.netlify.com/build_hooks/6b0451f1ab3f4660bfcdcdc7
