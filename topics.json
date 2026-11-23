@@ -1,102 +1,703 @@
 [
-  {"id":1,"slug":"fiber-laser-marking-vs-inkjet-coding","title":"Why Fiber Laser Marking Beats Inkjet Coding for Permanent Metal Marking","category":"laser-marking","status":"pending"},
-  {"id":2,"slug":"laser-welding-vs-tig-welding-comparison","title":"Laser Welding vs TIG Welding: Which Is Right for Your Production Line?","category":"laser-welding","status":"pending"},
-  {"id":3,"slug":"laser-cutting-vs-plasma-cutting","title":"Fiber Laser Cutting vs Plasma Cutting: Cost and Quality Compared","category":"laser-cutting","status":"pending"},
-  {"id":4,"slug":"laser-cleaning-vs-sandblasting","title":"Laser Cleaning vs Sandblasting: Which Removes Rust More Effectively?","category":"laser-cleaning","status":"pending"},
-  {"id":5,"slug":"laser-marking-dos-and-donts","title":"10 Do's and Don'ts When Operating a Fiber Laser Marking Machine","category":"dos-and-donts","status":"pending"},
-  {"id":6,"slug":"laser-welding-cost-savings-vs-tig","title":"How Much Does a Handheld Laser Welding Machine Save vs TIG Per Year?","category":"cost-comparison","status":"pending"},
-  {"id":7,"slug":"benefits-of-laser-welding-stainless-steel","title":"Laser Welding Stainless Steel: Cleaner Joints, Zero Distortion","category":"laser-welding","status":"pending"},
-  {"id":8,"slug":"how-to-choose-laser-marking-machine","title":"How to Choose the Right Laser Marking Machine for Your Business","category":"buyer-guide","status":"pending"},
-  {"id":9,"slug":"laser-marking-automotive-parts-traceability","title":"Laser Marking for Automotive Parts: Meeting OEM Traceability Requirements","category":"industry","status":"pending"},
-  {"id":10,"slug":"fiber-vs-co2-vs-uv-laser-marking","title":"Fiber Laser vs CO2 vs UV Laser: Which Marks Best on Metal?","category":"technical","status":"pending"},
-  {"id":11,"slug":"laser-welding-reduces-post-weld-finishing","title":"How Laser Welding Reduces Post-Weld Grinding and Finishing Work by 80%","category":"laser-welding","status":"pending"},
-  {"id":12,"slug":"laser-cutting-material-waste-reduction","title":"How Laser Cutting Reduces Material Waste in Sheet Metal Fabrication","category":"laser-cutting","status":"pending"},
-  {"id":13,"slug":"laser-marking-qr-codes-barcodes-metal","title":"Laser Marking QR Codes and Barcodes on Metal Parts for Full Traceability","category":"laser-marking","status":"pending"},
-  {"id":14,"slug":"laser-welding-thin-sheet-metal","title":"Laser Welding for Thin Sheet Metal: Why Traditional Methods Fall Short","category":"laser-welding","status":"pending"},
-  {"id":15,"slug":"laser-marking-wattage-guide","title":"What Wattage Laser Marking Machine Do You Actually Need?","category":"buyer-guide","status":"pending"},
-  {"id":16,"slug":"laser-cleaning-pre-weld-surface-prep","title":"Why Pre-Weld Laser Cleaning Improves Weld Quality and Reduces Rework","category":"laser-cleaning","status":"pending"},
-  {"id":17,"slug":"laser-welding-kitchen-equipment-manufacturing","title":"How Laser Welding Is Transforming Kitchen Equipment Manufacturing in India","category":"industry","status":"pending"},
-  {"id":18,"slug":"tig-mig-vs-laser-5-year-cost","title":"TIG Welding vs Laser Welding: 5-Year Total Cost of Ownership Breakdown","category":"cost-comparison","status":"pending"},
-  {"id":19,"slug":"laser-marking-electrical-panels","title":"Laser Marking for Electrical Panel Manufacturers: Accuracy and Compliance","category":"industry","status":"pending"},
-  {"id":20,"slug":"what-is-fiber-laser-technology","title":"What Is Fiber Laser Technology and How Does It Actually Work?","category":"technical","status":"pending"},
-  {"id":21,"slug":"laser-cutting-edge-quality-sheet-metal","title":"How Laser Cutting Delivers Superior Edge Quality in Sheet Metal Fabrication","category":"laser-cutting","status":"pending"},
-  {"id":22,"slug":"laser-welding-safety-rules","title":"10 Safety Rules Every Laser Welding Operator Must Follow","category":"dos-and-donts","status":"pending"},
-  {"id":23,"slug":"laser-marking-medical-devices","title":"Laser Marking in the Medical Device Industry: Precision and Compliance","category":"industry","status":"pending"},
-  {"id":24,"slug":"3in1-laser-welding-machine-guide","title":"3-in-1 Laser Welding Machine: Who Should Buy It and Why","category":"buyer-guide","status":"pending"},
-  {"id":25,"slug":"laser-cutting-roi-calculator","title":"How to Calculate ROI When Switching to Laser Cutting","category":"cost-comparison","status":"pending"},
-  {"id":26,"slug":"laser-marking-dot-peen-comparison","title":"Laser Marking vs Dot Peen Marking: Which Is Right for Your Production Line?","category":"laser-marking","status":"pending"},
-  {"id":27,"slug":"laser-welding-aluminium-guide","title":"Laser Welding Aluminium: Challenges, Parameters, and Best Practices","category":"laser-welding","status":"pending"},
-  {"id":28,"slug":"laser-cutting-mild-steel-stainless-aluminium","title":"Laser Cutting Mild Steel, Stainless Steel, and Aluminium: What Changes?","category":"laser-cutting","status":"pending"},
-  {"id":29,"slug":"laser-marking-maintenance-tips","title":"5 Monthly Maintenance Checks That Keep Your Laser Marking Machine Running for 10 Years","category":"dos-and-donts","status":"pending"},
-  {"id":30,"slug":"laser-welding-die-mould-repair","title":"Die and Mould Repair with Laser Welding: Precision Without Damage","category":"industry","status":"pending"},
-  {"id":31,"slug":"laser-marking-traceability-standards","title":"How Laser Marking Helps Manufacturers Meet ISO and BIS Traceability Standards","category":"laser-marking","status":"pending"},
-  {"id":32,"slug":"laser-cutting-plasma-waterjet-tolerances","title":"Sheet Metal Cutting Tolerances: Laser vs Plasma vs Waterjet","category":"laser-cutting","status":"pending"},
-  {"id":33,"slug":"laser-cleaning-heritage-metal-restoration","title":"Laser Cleaning for Metal Restoration: A Precision Alternative to Chemicals","category":"laser-cleaning","status":"pending"},
-  {"id":34,"slug":"laser-welding-jewelry-repair","title":"How Jewelry Manufacturers Use Laser Welding for Repair and Precision Fabrication","category":"industry","status":"pending"},
-  {"id":35,"slug":"flying-laser-marking-machine-guide","title":"Flying Laser Marking Machine: Is It Right for Your Production Line?","category":"buyer-guide","status":"pending"},
-  {"id":36,"slug":"laser-cutting-tube-vs-traditional","title":"Tube Laser Cutting vs Traditional Pipe Cutting: Speed, Cost, and Accuracy","category":"laser-cutting","status":"pending"},
-  {"id":37,"slug":"laser-welding-parameters-mistakes","title":"7 Common Parameter Mistakes That Ruin Laser Welds and How to Avoid Them","category":"dos-and-donts","status":"pending"},
-  {"id":38,"slug":"laser-marking-one-machine-replaces-printers","title":"How One Fiber Laser Marking Machine Can Replace 3 Inkjet Printers","category":"cost-comparison","status":"pending"},
-  {"id":39,"slug":"laser-marking-cable-wire-harness","title":"Laser Marking for Cable and Wire Harness Manufacturers","category":"industry","status":"pending"},
-  {"id":40,"slug":"what-is-mopa-laser","title":"What Is a MOPA Laser and When Do You Need One for Marking?","category":"technical","status":"pending"},
-  {"id":41,"slug":"laser-welding-air-cooled-vs-water-cooled","title":"Air-Cooled vs Water-Cooled Laser Welding Machines: Which to Choose","category":"buyer-guide","status":"pending"},
-  {"id":42,"slug":"laser-cleaning-industrial-machinery-maintenance","title":"Laser Cleaning for Industrial Machinery Maintenance: No Chemicals, No Downtime","category":"laser-cleaning","status":"pending"},
-  {"id":43,"slug":"laser-cutting-signage-metalwork","title":"Laser Cutting for Signage and Architectural Metalwork in India","category":"industry","status":"pending"},
-  {"id":44,"slug":"laser-welding-consumables-cost-comparison","title":"Consumables Cost: Laser Welding vs Traditional Welding Over 3 Years","category":"cost-comparison","status":"pending"},
-  {"id":45,"slug":"laser-marking-hallmarking-jewellery","title":"BIS Hallmarking Compliance: How Laser Marking Machines Help Jewellers","category":"india-market","status":"pending"},
-  {"id":46,"slug":"laser-marking-uv-fiber-difference","title":"UV Laser vs Fiber Laser: When to Use Each for Industrial Marking","category":"technical","status":"pending"},
-  {"id":47,"slug":"laser-welding-handheld-vs-desktop","title":"Handheld vs Desktop Laser Welding Machine: Which Fits Your Workshop?","category":"buyer-guide","status":"pending"},
-  {"id":48,"slug":"laser-cutting-sheet-tube-combo","title":"Sheet and Tube Combo Laser Cutters: Maximum Versatility for Fabricators","category":"laser-cutting","status":"pending"},
-  {"id":49,"slug":"laser-marking-pharma-packaging-machinery","title":"Laser Marking for Pharma Packaging Machinery: Precision at Scale","category":"industry","status":"pending"},
-  {"id":50,"slug":"laser-welding-stainless-steel-food-equipment","title":"Why Food Equipment Manufacturers Choose Laser Welding for Stainless Steel","category":"industry","status":"pending"},
-  {"id":51,"slug":"cw-vs-pulsed-laser-cleaning","title":"CW vs Pulsed Laser Cleaning: Which Is Right for Your Application?","category":"laser-cleaning","status":"pending"},
-  {"id":52,"slug":"laser-marking-reduce-rework-warranty","title":"How Permanent Laser Marking Reduces Rework Costs and Warranty Claims","category":"laser-marking","status":"pending"},
-  {"id":53,"slug":"laser-cutting-energy-consumption","title":"Energy Consumption: Fiber Laser Cutters vs Conventional Plasma Systems","category":"cost-comparison","status":"pending"},
-  {"id":54,"slug":"laser-welding-galvanized-steel-donts","title":"What NOT to Do When Laser Welding Galvanized Steel","category":"dos-and-donts","status":"pending"},
-  {"id":55,"slug":"laser-marking-agricultural-equipment","title":"Laser Marking for Agricultural Equipment: Durability in Harsh Conditions","category":"industry","status":"pending"},
-  {"id":56,"slug":"understanding-galvo-scanning-laser-marking","title":"How Galvo Scanning Works in Fiber Laser Marking Machines","category":"technical","status":"pending"},
-  {"id":57,"slug":"laser-marking-tabletop-vs-desktop","title":"Tabletop vs Desktop Laser Marking Machine: Which Fits Your Workshop?","category":"buyer-guide","status":"pending"},
-  {"id":58,"slug":"laser-welding-nozzle-maintenance","title":"How to Clean and Maintain Your Laser Welding Nozzle for Consistent Results","category":"dos-and-donts","status":"pending"},
-  {"id":59,"slug":"laser-cutting-custom-metal-parts","title":"Laser Cutting for Custom Metal Parts: Speed, Accuracy, and Repeatability","category":"laser-cutting","status":"pending"},
-  {"id":60,"slug":"indian-smes-adopting-laser-technology","title":"How Indian SMEs Are Using Laser Technology to Stay Competitive in Manufacturing","category":"india-market","status":"pending"},
-  {"id":61,"slug":"laser-marking-valve-fitting-manufacturers","title":"Laser Marking for Valve and Fitting Manufacturers: Meeting Industry Standards","category":"industry","status":"pending"},
-  {"id":62,"slug":"laser-welding-furniture-interior-design","title":"Laser Welding in Furniture and Interior Design: Invisible Joints, Perfect Finish","category":"industry","status":"pending"},
-  {"id":63,"slug":"ipg-raycus-jpt-laser-source-comparison","title":"IPG vs Raycus vs JPT Laser Source: Which Brand Should You Choose?","category":"technical","status":"pending"},
-  {"id":64,"slug":"laser-cleaning-pre-painting-surface-prep","title":"Laser Cleaning for Pre-Painting Surface Preparation: Better Adhesion, Less Waste","category":"laser-cleaning","status":"pending"},
-  {"id":65,"slug":"laser-cutting-stainless-steel-fabricators","title":"5 Reasons Sheet Metal Fabricators Are Upgrading to Fiber Laser Cutters","category":"laser-cutting","status":"pending"},
-  {"id":66,"slug":"laser-welding-aerospace-components","title":"Laser Welding for Aerospace Component Fabrication: Precision and Strength","category":"industry","status":"pending"},
-  {"id":67,"slug":"laser-marking-operator-training-guide","title":"How to Train Operators for Fiber Laser Marking Machines: A Step-by-Step Guide","category":"dos-and-donts","status":"pending"},
-  {"id":68,"slug":"laser-cutting-reflective-metals-safety","title":"Do's and Don'ts for Laser Cutting Reflective Metals Like Aluminium and Copper","category":"dos-and-donts","status":"pending"},
-  {"id":69,"slug":"after-sales-service-laser-machine-india","title":"Why After-Sales Service Matters More Than Price When Buying a Laser Machine in India","category":"india-market","status":"pending"},
-  {"id":70,"slug":"laser-marking-360-degree-machine-guide","title":"360-Degree Laser Marking Machine: When You Need to Mark on Curved Surfaces","category":"buyer-guide","status":"pending"},
-  {"id":71,"slug":"laser-welding-automotive-components","title":"Laser Welding for Automotive Component Manufacturers: Speed and Consistency","category":"industry","status":"pending"},
-  {"id":72,"slug":"laser-marking-laser-engraving-difference","title":"Laser Marking vs Laser Engraving: What Is the Actual Difference?","category":"technical","status":"pending"},
-  {"id":73,"slug":"laser-cleaning-rust-removal-industrial","title":"Industrial Rust Removal with Laser Cleaning: A Complete Guide for Plant Managers","category":"laser-cleaning","status":"pending"},
-  {"id":74,"slug":"laser-cutting-cost-per-metre-comparison","title":"Cost Per Metre: Laser Cutting vs Plasma vs Waterjet for 3mm Steel","category":"cost-comparison","status":"pending"},
-  {"id":75,"slug":"laser-welding-handheld-training-time","title":"How Handheld Laser Welding Machines Reduce Operator Training Time","category":"laser-welding","status":"pending"},
-  {"id":76,"slug":"laser-marking-5-industries-traceability","title":"5 Industries That Rely on Laser Marking for Lifetime Part Traceability","category":"laser-marking","status":"pending"},
-  {"id":77,"slug":"msme-financing-laser-machines-india","title":"MSME Financing Options for Buying Laser Machines in India","category":"india-market","status":"pending"},
-  {"id":78,"slug":"laser-welding-wobble-head-explained","title":"What Is a Wobble Welding Head and When Should You Use It?","category":"technical","status":"pending"},
-  {"id":79,"slug":"laser-marking-handheld-machine-guide","title":"Handheld Laser Marking Machine: Applications, Advantages, and Limitations","category":"buyer-guide","status":"pending"},
-  {"id":80,"slug":"laser-cleaning-chemical-usage-reduction","title":"How Laser Cleaning Reduces Chemical Usage and Disposal Costs in Manufacturing","category":"laser-cleaning","status":"pending"},
-  {"id":81,"slug":"laser-cutting-agricultural-parts","title":"Laser Cutting for Agricultural Equipment Parts: Durability Meets Precision","category":"industry","status":"pending"},
-  {"id":82,"slug":"laser-marking-laser-power-depth-speed","title":"How Laser Power Affects Marking Depth, Speed, and Quality on Different Metals","category":"technical","status":"pending"},
-  {"id":83,"slug":"laser-welding-labour-cost-savings-india","title":"Labour Cost Savings After Switching to Laser Welding: Real Numbers from Indian Plants","category":"cost-comparison","status":"pending"},
-  {"id":84,"slug":"made-in-india-vs-imported-laser-machines","title":"Made in India vs Imported Laser Machines: What Buyers in India Should Know","category":"india-market","status":"pending"},
-  {"id":85,"slug":"laser-marking-stair-railing-gates-fabrication","title":"Laser Cutting for Custom Stair Railings, Gates, and Structural Metalwork","category":"industry","status":"pending"},
-  {"id":86,"slug":"laser-welding-setup-common-mistakes","title":"6 Common Setup Mistakes That Lead to Poor Laser Welds","category":"dos-and-donts","status":"pending"},
-  {"id":87,"slug":"laser-marking-3d-machine-applications","title":"3D Laser Marking Machine: Applications for Curved and Contoured Metal Surfaces","category":"laser-marking","status":"pending"},
-  {"id":88,"slug":"laser-cleaning-coated-surfaces-guide","title":"Do's and Don'ts for Laser Cleaning Painted and Coated Metal Surfaces","category":"dos-and-donts","status":"pending"},
-  {"id":89,"slug":"laser-cutting-sheet-metal-bending-combination","title":"Laser Cutting and Bending as a Combined Process: Efficiency Gains for Fabricators","category":"laser-cutting","status":"pending"},
-  {"id":90,"slug":"laser-welding-gst-import-duty-india","title":"GST and Import Duty on Laser Welding Machines in India: What to Know Before Buying","category":"india-market","status":"pending"},
-  {"id":91,"slug":"laser-marking-co2-machine-applications","title":"CO2 Laser Marking Machine: When to Choose It Over Fiber for Non-Metal Surfaces","category":"laser-marking","status":"pending"},
-  {"id":92,"slug":"laser-welding-distortion-control","title":"How Laser Welding Minimises Heat Distortion in Precision Sheet Metal Parts","category":"laser-welding","status":"pending"},
-  {"id":93,"slug":"laser-marking-maximum-life-india-conditions","title":"How to Get Maximum Life from Your Laser Machine in Indian Industrial Conditions","category":"india-market","status":"pending"},
-  {"id":94,"slug":"laser-cleaning-heritage-machinery-reconditioning","title":"Laser Cleaning for Reconditioning Heritage Industrial Machinery","category":"laser-cleaning","status":"pending"},
-  {"id":95,"slug":"laser-cutting-nesting-software-material-savings","title":"How Nesting Software with Laser Cutting Maximises Sheet Metal Yield","category":"technical","status":"pending"},
-  {"id":96,"slug":"laser-marking-safety-glasses-od-ratings","title":"Why Laser Safety Glasses Are Non-Negotiable: OD Ratings and Protection Classes Explained","category":"dos-and-donts","status":"pending"},
-  {"id":97,"slug":"laser-welding-stainless-kitchen-equipment-india","title":"Indian Kitchen Equipment Manufacturers: Why Laser Welding Is the Competitive Edge","category":"industry","status":"pending"},
-  {"id":98,"slug":"laser-marking-permanent-vs-temporary","title":"Permanent vs Temporary Marking: Why Laser Is the Only True Permanent Solution for Metal","category":"laser-marking","status":"pending"},
-  {"id":99,"slug":"laser-cutting-job-shop-business-case","title":"Business Case for Job Shops: Why a Fiber Laser Cutter Pays for Itself in 18 Months","category":"cost-comparison","status":"pending"},
-  {"id":100,"slug":"laser-machines-industry-40-smart-manufacturing","title":"Laser Machines and Industry 4.0: How Smart Manufacturers in India Are Integrating Both","category":"india-market","status":"pending"}
+  {
+    "id": 1,
+    "slug": "fiber-laser-marking-vs-inkjet-coding",
+    "title": "Why Fiber Laser Marking Beats Inkjet Coding for Permanent Metal Marking",
+    "category": "laser-marking",
+    "status": "published",
+    "published_date": "2026-11-23"
+  },
+  {
+    "id": 2,
+    "slug": "laser-welding-vs-tig-welding-comparison",
+    "title": "Laser Welding vs TIG Welding: Which Is Right for Your Production Line?",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "slug": "laser-cutting-vs-plasma-cutting",
+    "title": "Fiber Laser Cutting vs Plasma Cutting: Cost and Quality Compared",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "slug": "laser-cleaning-vs-sandblasting",
+    "title": "Laser Cleaning vs Sandblasting: Which Removes Rust More Effectively?",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "slug": "laser-marking-dos-and-donts",
+    "title": "10 Do's and Don'ts When Operating a Fiber Laser Marking Machine",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "slug": "laser-welding-cost-savings-vs-tig",
+    "title": "How Much Does a Handheld Laser Welding Machine Save vs TIG Per Year?",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "slug": "benefits-of-laser-welding-stainless-steel",
+    "title": "Laser Welding Stainless Steel: Cleaner Joints, Zero Distortion",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "slug": "how-to-choose-laser-marking-machine",
+    "title": "How to Choose the Right Laser Marking Machine for Your Business",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 9,
+    "slug": "laser-marking-automotive-parts-traceability",
+    "title": "Laser Marking for Automotive Parts: Meeting OEM Traceability Requirements",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 10,
+    "slug": "fiber-vs-co2-vs-uv-laser-marking",
+    "title": "Fiber Laser vs CO2 vs UV Laser: Which Marks Best on Metal?",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "slug": "laser-welding-reduces-post-weld-finishing",
+    "title": "How Laser Welding Reduces Post-Weld Grinding and Finishing Work by 80%",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 12,
+    "slug": "laser-cutting-material-waste-reduction",
+    "title": "How Laser Cutting Reduces Material Waste in Sheet Metal Fabrication",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 13,
+    "slug": "laser-marking-qr-codes-barcodes-metal",
+    "title": "Laser Marking QR Codes and Barcodes on Metal Parts for Full Traceability",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 14,
+    "slug": "laser-welding-thin-sheet-metal",
+    "title": "Laser Welding for Thin Sheet Metal: Why Traditional Methods Fall Short",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 15,
+    "slug": "laser-marking-wattage-guide",
+    "title": "What Wattage Laser Marking Machine Do You Actually Need?",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 16,
+    "slug": "laser-cleaning-pre-weld-surface-prep",
+    "title": "Why Pre-Weld Laser Cleaning Improves Weld Quality and Reduces Rework",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 17,
+    "slug": "laser-welding-kitchen-equipment-manufacturing",
+    "title": "How Laser Welding Is Transforming Kitchen Equipment Manufacturing in India",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 18,
+    "slug": "tig-mig-vs-laser-5-year-cost",
+    "title": "TIG Welding vs Laser Welding: 5-Year Total Cost of Ownership Breakdown",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 19,
+    "slug": "laser-marking-electrical-panels",
+    "title": "Laser Marking for Electrical Panel Manufacturers: Accuracy and Compliance",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 20,
+    "slug": "what-is-fiber-laser-technology",
+    "title": "What Is Fiber Laser Technology and How Does It Actually Work?",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 21,
+    "slug": "laser-cutting-edge-quality-sheet-metal",
+    "title": "How Laser Cutting Delivers Superior Edge Quality in Sheet Metal Fabrication",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 22,
+    "slug": "laser-welding-safety-rules",
+    "title": "10 Safety Rules Every Laser Welding Operator Must Follow",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 23,
+    "slug": "laser-marking-medical-devices",
+    "title": "Laser Marking in the Medical Device Industry: Precision and Compliance",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 24,
+    "slug": "3in1-laser-welding-machine-guide",
+    "title": "3-in-1 Laser Welding Machine: Who Should Buy It and Why",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 25,
+    "slug": "laser-cutting-roi-calculator",
+    "title": "How to Calculate ROI When Switching to Laser Cutting",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 26,
+    "slug": "laser-marking-dot-peen-comparison",
+    "title": "Laser Marking vs Dot Peen Marking: Which Is Right for Your Production Line?",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 27,
+    "slug": "laser-welding-aluminium-guide",
+    "title": "Laser Welding Aluminium: Challenges, Parameters, and Best Practices",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 28,
+    "slug": "laser-cutting-mild-steel-stainless-aluminium",
+    "title": "Laser Cutting Mild Steel, Stainless Steel, and Aluminium: What Changes?",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 29,
+    "slug": "laser-marking-maintenance-tips",
+    "title": "5 Monthly Maintenance Checks That Keep Your Laser Marking Machine Running for 10 Years",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 30,
+    "slug": "laser-welding-die-mould-repair",
+    "title": "Die and Mould Repair with Laser Welding: Precision Without Damage",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 31,
+    "slug": "laser-marking-traceability-standards",
+    "title": "How Laser Marking Helps Manufacturers Meet ISO and BIS Traceability Standards",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 32,
+    "slug": "laser-cutting-plasma-waterjet-tolerances",
+    "title": "Sheet Metal Cutting Tolerances: Laser vs Plasma vs Waterjet",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 33,
+    "slug": "laser-cleaning-heritage-metal-restoration",
+    "title": "Laser Cleaning for Metal Restoration: A Precision Alternative to Chemicals",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 34,
+    "slug": "laser-welding-jewelry-repair",
+    "title": "How Jewelry Manufacturers Use Laser Welding for Repair and Precision Fabrication",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 35,
+    "slug": "flying-laser-marking-machine-guide",
+    "title": "Flying Laser Marking Machine: Is It Right for Your Production Line?",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 36,
+    "slug": "laser-cutting-tube-vs-traditional",
+    "title": "Tube Laser Cutting vs Traditional Pipe Cutting: Speed, Cost, and Accuracy",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 37,
+    "slug": "laser-welding-parameters-mistakes",
+    "title": "7 Common Parameter Mistakes That Ruin Laser Welds and How to Avoid Them",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 38,
+    "slug": "laser-marking-one-machine-replaces-printers",
+    "title": "How One Fiber Laser Marking Machine Can Replace 3 Inkjet Printers",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 39,
+    "slug": "laser-marking-cable-wire-harness",
+    "title": "Laser Marking for Cable and Wire Harness Manufacturers",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 40,
+    "slug": "what-is-mopa-laser",
+    "title": "What Is a MOPA Laser and When Do You Need One for Marking?",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 41,
+    "slug": "laser-welding-air-cooled-vs-water-cooled",
+    "title": "Air-Cooled vs Water-Cooled Laser Welding Machines: Which to Choose",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 42,
+    "slug": "laser-cleaning-industrial-machinery-maintenance",
+    "title": "Laser Cleaning for Industrial Machinery Maintenance: No Chemicals, No Downtime",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 43,
+    "slug": "laser-cutting-signage-metalwork",
+    "title": "Laser Cutting for Signage and Architectural Metalwork in India",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 44,
+    "slug": "laser-welding-consumables-cost-comparison",
+    "title": "Consumables Cost: Laser Welding vs Traditional Welding Over 3 Years",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 45,
+    "slug": "laser-marking-hallmarking-jewellery",
+    "title": "BIS Hallmarking Compliance: How Laser Marking Machines Help Jewellers",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 46,
+    "slug": "laser-marking-uv-fiber-difference",
+    "title": "UV Laser vs Fiber Laser: When to Use Each for Industrial Marking",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 47,
+    "slug": "laser-welding-handheld-vs-desktop",
+    "title": "Handheld vs Desktop Laser Welding Machine: Which Fits Your Workshop?",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 48,
+    "slug": "laser-cutting-sheet-tube-combo",
+    "title": "Sheet and Tube Combo Laser Cutters: Maximum Versatility for Fabricators",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 49,
+    "slug": "laser-marking-pharma-packaging-machinery",
+    "title": "Laser Marking for Pharma Packaging Machinery: Precision at Scale",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 50,
+    "slug": "laser-welding-stainless-steel-food-equipment",
+    "title": "Why Food Equipment Manufacturers Choose Laser Welding for Stainless Steel",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 51,
+    "slug": "cw-vs-pulsed-laser-cleaning",
+    "title": "CW vs Pulsed Laser Cleaning: Which Is Right for Your Application?",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 52,
+    "slug": "laser-marking-reduce-rework-warranty",
+    "title": "How Permanent Laser Marking Reduces Rework Costs and Warranty Claims",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 53,
+    "slug": "laser-cutting-energy-consumption",
+    "title": "Energy Consumption: Fiber Laser Cutters vs Conventional Plasma Systems",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 54,
+    "slug": "laser-welding-galvanized-steel-donts",
+    "title": "What NOT to Do When Laser Welding Galvanized Steel",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 55,
+    "slug": "laser-marking-agricultural-equipment",
+    "title": "Laser Marking for Agricultural Equipment: Durability in Harsh Conditions",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 56,
+    "slug": "understanding-galvo-scanning-laser-marking",
+    "title": "How Galvo Scanning Works in Fiber Laser Marking Machines",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 57,
+    "slug": "laser-marking-tabletop-vs-desktop",
+    "title": "Tabletop vs Desktop Laser Marking Machine: Which Fits Your Workshop?",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 58,
+    "slug": "laser-welding-nozzle-maintenance",
+    "title": "How to Clean and Maintain Your Laser Welding Nozzle for Consistent Results",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 59,
+    "slug": "laser-cutting-custom-metal-parts",
+    "title": "Laser Cutting for Custom Metal Parts: Speed, Accuracy, and Repeatability",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 60,
+    "slug": "indian-smes-adopting-laser-technology",
+    "title": "How Indian SMEs Are Using Laser Technology to Stay Competitive in Manufacturing",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 61,
+    "slug": "laser-marking-valve-fitting-manufacturers",
+    "title": "Laser Marking for Valve and Fitting Manufacturers: Meeting Industry Standards",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 62,
+    "slug": "laser-welding-furniture-interior-design",
+    "title": "Laser Welding in Furniture and Interior Design: Invisible Joints, Perfect Finish",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 63,
+    "slug": "ipg-raycus-jpt-laser-source-comparison",
+    "title": "IPG vs Raycus vs JPT Laser Source: Which Brand Should You Choose?",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 64,
+    "slug": "laser-cleaning-pre-painting-surface-prep",
+    "title": "Laser Cleaning for Pre-Painting Surface Preparation: Better Adhesion, Less Waste",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 65,
+    "slug": "laser-cutting-stainless-steel-fabricators",
+    "title": "5 Reasons Sheet Metal Fabricators Are Upgrading to Fiber Laser Cutters",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 66,
+    "slug": "laser-welding-aerospace-components",
+    "title": "Laser Welding for Aerospace Component Fabrication: Precision and Strength",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 67,
+    "slug": "laser-marking-operator-training-guide",
+    "title": "How to Train Operators for Fiber Laser Marking Machines: A Step-by-Step Guide",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 68,
+    "slug": "laser-cutting-reflective-metals-safety",
+    "title": "Do's and Don'ts for Laser Cutting Reflective Metals Like Aluminium and Copper",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 69,
+    "slug": "after-sales-service-laser-machine-india",
+    "title": "Why After-Sales Service Matters More Than Price When Buying a Laser Machine in India",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 70,
+    "slug": "laser-marking-360-degree-machine-guide",
+    "title": "360-Degree Laser Marking Machine: When You Need to Mark on Curved Surfaces",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 71,
+    "slug": "laser-welding-automotive-components",
+    "title": "Laser Welding for Automotive Component Manufacturers: Speed and Consistency",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 72,
+    "slug": "laser-marking-laser-engraving-difference",
+    "title": "Laser Marking vs Laser Engraving: What Is the Actual Difference?",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 73,
+    "slug": "laser-cleaning-rust-removal-industrial",
+    "title": "Industrial Rust Removal with Laser Cleaning: A Complete Guide for Plant Managers",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 74,
+    "slug": "laser-cutting-cost-per-metre-comparison",
+    "title": "Cost Per Metre: Laser Cutting vs Plasma vs Waterjet for 3mm Steel",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 75,
+    "slug": "laser-welding-handheld-training-time",
+    "title": "How Handheld Laser Welding Machines Reduce Operator Training Time",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 76,
+    "slug": "laser-marking-5-industries-traceability",
+    "title": "5 Industries That Rely on Laser Marking for Lifetime Part Traceability",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 77,
+    "slug": "msme-financing-laser-machines-india",
+    "title": "MSME Financing Options for Buying Laser Machines in India",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 78,
+    "slug": "laser-welding-wobble-head-explained",
+    "title": "What Is a Wobble Welding Head and When Should You Use It?",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 79,
+    "slug": "laser-marking-handheld-machine-guide",
+    "title": "Handheld Laser Marking Machine: Applications, Advantages, and Limitations",
+    "category": "buyer-guide",
+    "status": "pending"
+  },
+  {
+    "id": 80,
+    "slug": "laser-cleaning-chemical-usage-reduction",
+    "title": "How Laser Cleaning Reduces Chemical Usage and Disposal Costs in Manufacturing",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 81,
+    "slug": "laser-cutting-agricultural-parts",
+    "title": "Laser Cutting for Agricultural Equipment Parts: Durability Meets Precision",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 82,
+    "slug": "laser-marking-laser-power-depth-speed",
+    "title": "How Laser Power Affects Marking Depth, Speed, and Quality on Different Metals",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 83,
+    "slug": "laser-welding-labour-cost-savings-india",
+    "title": "Labour Cost Savings After Switching to Laser Welding: Real Numbers from Indian Plants",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 84,
+    "slug": "made-in-india-vs-imported-laser-machines",
+    "title": "Made in India vs Imported Laser Machines: What Buyers in India Should Know",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 85,
+    "slug": "laser-marking-stair-railing-gates-fabrication",
+    "title": "Laser Cutting for Custom Stair Railings, Gates, and Structural Metalwork",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 86,
+    "slug": "laser-welding-setup-common-mistakes",
+    "title": "6 Common Setup Mistakes That Lead to Poor Laser Welds",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 87,
+    "slug": "laser-marking-3d-machine-applications",
+    "title": "3D Laser Marking Machine: Applications for Curved and Contoured Metal Surfaces",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 88,
+    "slug": "laser-cleaning-coated-surfaces-guide",
+    "title": "Do's and Don'ts for Laser Cleaning Painted and Coated Metal Surfaces",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 89,
+    "slug": "laser-cutting-sheet-metal-bending-combination",
+    "title": "Laser Cutting and Bending as a Combined Process: Efficiency Gains for Fabricators",
+    "category": "laser-cutting",
+    "status": "pending"
+  },
+  {
+    "id": 90,
+    "slug": "laser-welding-gst-import-duty-india",
+    "title": "GST and Import Duty on Laser Welding Machines in India: What to Know Before Buying",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 91,
+    "slug": "laser-marking-co2-machine-applications",
+    "title": "CO2 Laser Marking Machine: When to Choose It Over Fiber for Non-Metal Surfaces",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 92,
+    "slug": "laser-welding-distortion-control",
+    "title": "How Laser Welding Minimises Heat Distortion in Precision Sheet Metal Parts",
+    "category": "laser-welding",
+    "status": "pending"
+  },
+  {
+    "id": 93,
+    "slug": "laser-marking-maximum-life-india-conditions",
+    "title": "How to Get Maximum Life from Your Laser Machine in Indian Industrial Conditions",
+    "category": "india-market",
+    "status": "pending"
+  },
+  {
+    "id": 94,
+    "slug": "laser-cleaning-heritage-machinery-reconditioning",
+    "title": "Laser Cleaning for Reconditioning Heritage Industrial Machinery",
+    "category": "laser-cleaning",
+    "status": "pending"
+  },
+  {
+    "id": 95,
+    "slug": "laser-cutting-nesting-software-material-savings",
+    "title": "How Nesting Software with Laser Cutting Maximises Sheet Metal Yield",
+    "category": "technical",
+    "status": "pending"
+  },
+  {
+    "id": 96,
+    "slug": "laser-marking-safety-glasses-od-ratings",
+    "title": "Why Laser Safety Glasses Are Non-Negotiable: OD Ratings and Protection Classes Explained",
+    "category": "dos-and-donts",
+    "status": "pending"
+  },
+  {
+    "id": 97,
+    "slug": "laser-welding-stainless-kitchen-equipment-india",
+    "title": "Indian Kitchen Equipment Manufacturers: Why Laser Welding Is the Competitive Edge",
+    "category": "industry",
+    "status": "pending"
+  },
+  {
+    "id": 98,
+    "slug": "laser-marking-permanent-vs-temporary",
+    "title": "Permanent vs Temporary Marking: Why Laser Is the Only True Permanent Solution for Metal",
+    "category": "laser-marking",
+    "status": "pending"
+  },
+  {
+    "id": 99,
+    "slug": "laser-cutting-job-shop-business-case",
+    "title": "Business Case for Job Shops: Why a Fiber Laser Cutter Pays for Itself in 18 Months",
+    "category": "cost-comparison",
+    "status": "pending"
+  },
+  {
+    "id": 100,
+    "slug": "laser-machines-industry-40-smart-manufacturing",
+    "title": "Laser Machines and Industry 4.0: How Smart Manufacturers in India Are Integrating Both",
+    "category": "india-market",
+    "status": "pending"
+  }
 ]
