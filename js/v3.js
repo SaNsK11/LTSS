@@ -96,5 +96,16 @@
       });
       el.style.cursor = "pointer";
     });
+
+    /* ---------- back-to-top button ---------- */
+    var btt = document.createElement("button");
+    btt.className = "back-top";
+    btt.setAttribute("aria-label", "Back to top");
+    btt.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 15l-6-6-6 6"/></svg>';
+    document.body.appendChild(btt);
+    function toggleBtt() { btt.classList.toggle("visible", window.scrollY > 400); }
+    window.addEventListener("scroll", toggleBtt, { passive: true });
+    btt.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+
   });
 })();

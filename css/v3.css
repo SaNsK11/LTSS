@@ -414,3 +414,53 @@
 .samples-strip .mq-card .im img,
 .marquee.rev .mq-card .im img { mix-blend-mode: normal; }
 .samples-strip .mq-card .im, .marquee.rev .mq-card .im { background: #0e1118; }
+
+/* ---------- hide video-await placeholders until real videos are uploaded ---------- */
+.video-await { display: none; }
+
+/* ---------- back-to-top button ---------- */
+.back-top {
+  position: fixed; bottom: 90px; right: 22px; z-index: 900;
+  width: 44px; height: 44px; border-radius: 50%;
+  background: var(--red); color: #fff; border: none; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 4px 18px rgba(226,35,26,.35);
+  opacity: 0; visibility: hidden; transform: translateY(10px);
+  transition: opacity .25s, visibility .25s, transform .25s;
+}
+.back-top.visible { opacity: 1; visibility: visible; transform: translateY(0); }
+.back-top:hover { background: #c01e16; }
+.back-top svg { width: 18px; height: 18px; }
+
+/* ---------- about page: founder silhouette card ---------- */
+.founder-card {
+  display: flex; align-items: center; gap: 28px;
+  background: var(--grey-50); border: 1px solid var(--grey-200);
+  border-radius: 18px; padding: 28px 32px; margin-top: 34px;
+}
+.founder-avatar {
+  flex: none; width: 88px; height: 88px; border-radius: 50%;
+  background: var(--grey-200); display: flex; align-items: center; justify-content: center;
+  overflow: hidden;
+}
+.founder-avatar svg { width: 56px; height: 56px; color: var(--grey-400); }
+.founder-info h4 { margin: 0 0 4px; font-size: 1.05rem; }
+.founder-info p { margin: 0; font-size: .88rem; color: var(--grey-500); }
+@media (max-width: 540px) {
+  .founder-card { flex-direction: column; gap: 16px; padding: 22px; }
+}
+
+/* ---------- about page: stats strip ---------- */
+.about-stats {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px;
+  background: var(--grey-200); border-radius: 16px; overflow: hidden;
+  margin: 48px 0;
+}
+.about-stat {
+  background: #fff; padding: 28px 20px; text-align: center;
+}
+.about-stat strong { display: block; font-size: 2rem; font-family: var(--font-head); font-weight: 700; color: var(--red); line-height: 1; }
+.about-stat span { font-size: .82rem; color: var(--grey-500); margin-top: 6px; display: block; }
+@media (max-width: 680px) {
+  .about-stats { grid-template-columns: repeat(2, 1fr); }
+}
