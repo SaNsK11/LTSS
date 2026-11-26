@@ -71,6 +71,17 @@ def estimate_read_time(html_body):
     return max(4, math.ceil(words / 200))
 
 
+def _extract_json(raw):
+    raw = raw.strip()
+    raw = re.sub(r"^```(?:json)?\s*", "", raw)
+    raw = re.sub(r"\s*```$", "", raw)
+    # If there's preamble text before the JSON object, find the first {
+    start = raw.find("{")
+    if start > 0:
+        raw = raw[start:]
+    return json.loads(raw)
+
+
 def generate_post_content(topic):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
@@ -108,17 +119,21 @@ Output a JSON object with exactly these keys (no markdown, no code fences — ra
   "html_body": "the full post body HTML as described above"
 }}"""
 
-    message = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4096,
-        messages=[{"role": "user", "content": prompt}],
-    )
-
-    raw = message.content[0].text.strip()
-    # Strip markdown code fences if present
-    raw = re.sub(r"^```(?:json)?\s*", "", raw)
-    raw = re.sub(r"\s*```$", "", raw)
-    return json.loads(raw)
+    for attempt in range(3):
+        message = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=8192,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        raw = message.content[0].text
+        try:
+            return _extract_json(raw)
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"JSON parse attempt {attempt + 1} failed: {e}")
+            if attempt == 2:
+                print("Raw response (first 500 chars):", raw[:500])
+                raise
+    raise RuntimeError("Unreachable")
 
 
 def build_post_html(topic, content, pub_date):
